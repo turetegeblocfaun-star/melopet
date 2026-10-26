@@ -1,0 +1,83 @@
+# Local validation processes and logs
+.validation/
+
+# Reproducible dependency environments
+**/.venv/
+**/node_modules/
+
+# Python caches and test artifacts
+**/__pycache__/
+*.py[cod]
+**/.pytest_cache/
+**/.ruff_cache/
+**/.coverage
+**/htmlcov/
+
+# Frontend build and tool artifacts
+frontend/.next/
+frontend/.vinext/
+frontend/.wrangler/
+frontend/dist/
+*.tsbuildinfo
+
+# Local runtime data and credentials
+backend/.env
+backend/runtime/
+desktop-pet/pet.log
+desktop-pet/pet-state.json
+desktop-pet/pet-command.json
+desktop-pet/pet.lock
+
+# Operating-system metadata
+.DS_Store
+**/.DS_Store
+
+# Public source distribution: local state stays local
+.env
+.env.*
+!.env.example
+**/.env
+**/.env.*
+!**/.env.example
+**/node_modules/
+**/.venv/
+**/__pycache__/
+**/.next/
+**/.vinext/
+**/.wrangler/
+**/.vefaas/
+**/.openai/
+**/.pytest_cache/
+**/.mypy_cache/
+**/.ruff_cache/
+.validation/
+backend/runtime/
+data/
+uploads/
+sessions/
+*.db
+*.db-*
+*.sqlite
+*.sqlite3
+*.log
+*.py[cod]
+*.tsbuildinfo
+.coverage
+**/.coverage
+coverage/
+playwright-report/
+test-results/
+.DS_Store
+desktop-pet/pet-profile.json
+desktop-pet/pet-state.json
+desktop-pet/pet-command.json
+desktop-pet/pet.lock
+
+# Public, empty binding template required by the frontend build.
+!frontend/.openai/
+frontend/.openai/*
+!frontend/.openai/hosting.json
+
+# Also ignore temporary dependency symlinks used during local verification.
+**/node_modules
+**/.venv

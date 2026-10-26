@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120">
+  <path fill="__BODY__" d="M24 34 12 6 46 20Z"/>
+  <path fill="__BODY__" d="M96 34 108 6 74 20Z"/>
+  <path fill="__ACCENT__" d="M27 28 20 15 38 22Z"/>
+  <path fill="__ACCENT__" d="M93 28 100 15 82 22Z"/>
+  <circle cx="60" cy="70" r="44" fill="__BODY__"/>
+  <ellipse cx="60" cy="86" rx="22" ry="16" fill="__ACCENT__" opacity="0.6"/>
+  <circle cx="45" cy="64" r="7" fill="#2f3350"/>
+  <circle cx="75" cy="64" r="7" fill="#2f3350"/>
+  <circle cx="47" cy="61.5" r="2.5" fill="#ffffff"/>
+  <circle cx="77" cy="61.5" r="2.5" fill="#ffffff"/>
+  <path d="M53 76Q60 82 67 76" fill="none" stroke="#2f3350" stroke-width="2.6" stroke-linecap="round"/>
+  <circle cx="34" cy="76" r="6" fill="__ACCENT__" opacity="0.7"/>
+  <circle cx="86" cy="76" r="6" fill="__ACCENT__" opacity="0.7"/>
+</svg>

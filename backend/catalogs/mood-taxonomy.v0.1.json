@@ -1,0 +1,15 @@
+{
+  "version": "0.1",
+  "status": "candidate",
+  "taxonomy": [
+    {"moodId":"heroic_drive","displayName":"热血/激昂","definition":"强驱动力、昂扬、爆发","boundary":"与单纯明亮快乐区分","keywords":["热血","激昂","epic","power","rock","metal","energetic"]},
+    {"moodId":"joy_bright","displayName":"欢乐/明亮","definition":"轻快、愉悦、明亮","boundary":"不要求强烈冲刺感","keywords":["欢乐","快乐","明亮","happy","joy","bright","pop"]},
+    {"moodId":"healing_warm","displayName":"治愈/温暖","definition":"安慰、柔和、包裹感","boundary":"与浪漫对象性区分","keywords":["治愈","温暖","舒缓","healing","warm","soft","acoustic"]},
+    {"moodId":"romantic_tender","displayName":"浪漫/柔情","definition":"亲密、爱意、柔情","boundary":"不等于低能量","keywords":["浪漫","柔情","甜蜜","romantic","love","tender"]},
+    {"moodId":"melancholy_sad","displayName":"感伤/低落","definition":"悲伤、失落、内省","boundary":"不得映射为用户抑郁","keywords":["感伤","悲伤","忧郁","sad","melancholy","blue"]},
+    {"moodId":"calm_focus","displayName":"平静/专注","definition":"稳定、克制、适合安静专注","boundary":"与治愈的包裹感区分","keywords":["平静","专注","安静","calm","focus","ambient","study","lofi"]},
+    {"moodId":"mysterious_dark","displayName":"神秘/暗黑","definition":"悬疑、深色、冷峻","boundary":"不自动等于负面或危险","keywords":["神秘","暗黑","悬疑","dark","mysterious","tense","gothic"]},
+    {"moodId":"nostalgic_story","displayName":"怀旧/叙事","definition":"回忆、年代、叙事感","boundary":"需要明确标签或信号","keywords":["怀旧","叙事","复古","nostalgic","story","retro","oldies"]},
+    {"moodId":"UNKNOWN","displayName":"待确认","definition":"信号不足、冲突或目录外","boundary":"永久保留","keywords":[]}
+  ]
+}

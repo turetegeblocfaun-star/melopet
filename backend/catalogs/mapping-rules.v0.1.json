@@ -1,0 +1,43 @@
+{
+  "version": "0.1",
+  "status": "candidate",
+  "speciesByMood": {
+    "heroic_drive": ["species_fox_dev", "species_bird_dev", "species_bear_dev", "species_cat_dev", "species_bunny_dev", "species_spirit_dev"],
+    "joy_bright": ["species_bird_dev", "species_bunny_dev", "species_fox_dev", "species_cat_dev", "species_spirit_dev", "species_bear_dev"],
+    "healing_warm": ["species_cat_dev", "species_bunny_dev", "species_spirit_dev", "species_bird_dev", "species_bear_dev", "species_fox_dev"],
+    "romantic_tender": ["species_cat_dev", "species_bunny_dev", "species_fox_dev", "species_spirit_dev", "species_bird_dev", "species_bear_dev"],
+    "melancholy_sad": ["species_bird_dev", "species_spirit_dev", "species_cat_dev", "species_bear_dev", "species_fox_dev", "species_bunny_dev"],
+    "calm_focus": ["species_cat_dev", "species_bear_dev", "species_bird_dev", "species_bunny_dev", "species_spirit_dev", "species_fox_dev"],
+    "mysterious_dark": ["species_fox_dev", "species_spirit_dev", "species_bear_dev", "species_cat_dev", "species_bird_dev", "species_bunny_dev"],
+    "nostalgic_story": ["species_bird_dev", "species_bear_dev", "species_cat_dev", "species_bunny_dev", "species_spirit_dev", "species_fox_dev"],
+    "UNKNOWN": ["species_cat_dev", "species_fox_dev", "species_bird_dev", "species_bunny_dev", "species_bear_dev", "species_spirit_dev"]
+  },
+  "paletteByMood": {
+    "heroic_drive": "palette_crimson_dev",
+    "joy_bright": "palette_sun_dev",
+    "healing_warm": "palette_mint_dev",
+    "romantic_tender": "palette_rose_dev",
+    "melancholy_sad": "palette_blue_dev",
+    "calm_focus": "palette_slate_dev",
+    "mysterious_dark": "palette_violet_dev",
+    "nostalgic_story": "palette_amber_dev",
+    "UNKNOWN": "palette_slate_dev"
+  },
+  "paletteColors": {
+    "palette_crimson_dev": ["#ef4444", "#fb7185"],
+    "palette_sun_dev": ["#f59e0b", "#fde047"],
+    "palette_mint_dev": ["#10b981", "#6ee7b7"],
+    "palette_rose_dev": ["#ec4899", "#f9a8d4"],
+    "palette_blue_dev": ["#3b82f6", "#93c5fd"],
+    "palette_slate_dev": ["#64748b", "#cbd5e1"],
+    "palette_violet_dev": ["#7c3aed", "#c4b5fd"],
+    "palette_amber_dev": ["#b45309", "#fcd34d"]
+  },
+  "motionByMood": {
+    "heroic_drive":"motion_bounce_dev","joy_bright":"motion_bounce_dev",
+    "healing_warm":"motion_float_dev","romantic_tender":"motion_float_dev",
+    "melancholy_sad":"motion_breathe_dev","calm_focus":"motion_breathe_dev",
+    "mysterious_dark":"motion_float_dev","nostalgic_story":"motion_breathe_dev",
+    "UNKNOWN":"motion_breathe_dev"
+  }
+}

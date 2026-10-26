@@ -1,0 +1,7 @@
+desktop-pet/.venv/lib/python3.12/site-packages/llvmlite/binding/libllvmlite.dylib filter=lfs diff=lfs merge=lfs -text
+.validation/package-uv-cache/windows-x64/uv.exe filter=lfs diff=lfs merge=lfs -text
+.validation/package-uv-cache/macos-x64/uv filter=lfs diff=lfs merge=lfs -text
+desktop-pet/.venv/lib/python3.12/site-packages/PySide6/Qt/lib/QtWebEngineCore.framework/Versions/A/QtWebEngineCore filter=lfs diff=lfs merge=lfs -text
+.validation/desktop-pet-venv/lib/python3.11/site-packages/PySide6/Qt/lib/QtWebEngineCore.framework/Versions/A/QtWebEngineCore filter=lfs diff=lfs merge=lfs -text
+frontend/node_modules/workerd/bin/workerd filter=lfs diff=lfs merge=lfs -text
+frontend/node_modules/@cloudflare/workerd-darwin-arm64/bin/workerd filter=lfs diff=lfs merge=lfs -text
